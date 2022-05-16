@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Blazing42
-- 👀 I’m a Game Developer currently working on my first solo project
+- 👀 I’m a Game Developer currently working on various solo projects
 - 🌱 I’m currently learning a lot of new things about programming, including AI, pathfinding, design patterns and state machines
 - 💞️ I’m looking for any helpful comment about how i could improve both the structure of my code and any suggestions on if 
-there are easier ways to script any of the gameplay elements i am working on for my game.
-- 📫 I am also currently on the look out for any Unity Developer positions, so if you like anything that you see here please contact me through my email address
+there are easier ways to script any of the gameplay elements i am working on for my games.
+- 📫 I am also currently on the look out for any Unity Developer or Game Developer positions, so if you like anything that you see here please contact me through my email address
 samryle42@gmail.com, or i'd be happy to connect and chat through Linkedin, please leave a message on my profile. https://www.linkedin.com/in/samantha-ryle-859a7a11a/
 
 <!---
